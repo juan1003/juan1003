@@ -1,3 +1,3 @@
 # Hello fellow developers
 
-I'm a Co-Founder @ [Trabajemos PR](https://trabajemospr.com) and a Software Developer working @ [Invid](https://invidgroup.com). I love to create software for fun and giggles.
+I'm a Software Developer working @ [Pluralsight](https://pluralsight.com) under [INVID LLC.](https://invidgroup.com) I love to create software for fun and giggles.
