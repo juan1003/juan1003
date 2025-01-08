@@ -13,6 +13,7 @@ I have 8 years of experience in the web development department and my skills are
 - Git
 - Docker
 - AWS
+- .NET Core
 
 I've been learning Golang recently and I currently are learning more about the dotnet stack.
 If you want to work with me, you can reach me via email and we can collab anytime!
