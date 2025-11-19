@@ -10,7 +10,6 @@
 
 Experienced Software Engineer with a strong background in web technologies, including **TypeScript**, **Angular**, **React**, **.NET Core**, **Docker**, and **Postgres**. Over the past 9 years, I have contributed to various projects, consistently delivering scalable and maintainable solutions.
 
-- **Featured Project:** [Medic Notes](https://github.com/juan1003/medic-notes)
 - Currently expanding my skill set in **Artificial Intelligence** and its practical applications.
 - Connect with me on [LinkedIn](https://linkedin.com/in/juan-de-jesus-torres)
 
