@@ -1,21 +1,19 @@
+# Juan De Jesús | Software Engineer & Founder
 
-``` 
- _   _      _ _         __        __         _     _ _ 
-/ | | | ___| | | ___    \ \      / /__  _ __| | __| | | /
-/ |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` | | /
-/  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| | | /
-/_| |_|\___|_|_|\___/      \_/\_/ \___/|_|  |_|\__,_|_/ / 
- ```                                                     
-# Juan de Jesús Torres
+9+ years of experience delivering high-impact software solutions and robust cloud infrastructure.
 
-Experienced Software Engineer with a strong background in web technologies, including **TypeScript**, **Angular**, **React**, **.NET Core**, **Docker**, and **Postgres**. Over the past 9 years, I have contributed to various projects, consistently delivering scalable and maintainable solutions.
+As the founder of **[LunatekLLC](https://lunatekllc.dev)**, I bridge the gap between code and infrastructure. I help organizations leverage **Cloud Architecture** and **AI-assisted workflows** to build the next generation of software.
 
-- Currently expanding my skill set in **Artificial Intelligence** and its practical applications.
-- Connect with me on [LinkedIn](https://linkedin.com/in/juan-de-jesus-torres)
-
-**Interests:**  
-Outside of work, I enjoy [music production](https://soundcloud.com/makinariax) and gaming.
+### 🛠 Core Expertise
+* **Frameworks:** .NET Core, Angular, React
+* **Languages:** TypeScript, C#
+* **Infrastructure:** Docker, PostgreSQL, Cloud Design
+* **Current Interests:** Infrastructure as Code (IaC) and AI-driven developer productivity
 
 ---
 
-Feel free to reach out to discuss potential collaborations or opportunities.
+### 🤝 Connect with me
+Feel free to reach out to discuss potential collaborations, architectural challenges, or opportunities. I'm always happy to help whenever I can!
+
+* **LinkedIn:** [juan-de-jesus-torres](https://linkedin.com/in/juan-de-jesus-torres)
+* **Company:** [lunatekllc.dev](https://lunatekllc.dev)
